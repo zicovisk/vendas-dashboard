@@ -1,0 +1,21 @@
+data,produto,categoria,quantidade,preco_unitario,custo_unitario
+2024-01-05,Whey Protein 1kg,Proteínas,3,45.90,22.00
+2024-01-08,Creatina 300g,Performance,5,28.50,12.00
+2024-01-12,Multivitamínico,Vitaminas,2,19.90,8.50
+2024-01-15,Whey Protein 1kg,Proteínas,4,45.90,22.00
+2024-01-20,Barra de Proteína,Snacks,10,2.90,1.20
+2024-02-03,Creatina 300g,Performance,3,28.50,12.00
+2024-02-10,Whey Protein 1kg,Proteínas,6,45.90,22.00
+2024-02-14,Vitamina C 1g,Vitaminas,4,12.50,5.00
+2024-02-18,Barra de Proteína,Snacks,15,2.90,1.20
+2024-02-25,Multivitamínico,Vitaminas,3,19.90,8.50
+2024-03-02,Whey Protein 1kg,Proteínas,5,45.90,22.00
+2024-03-07,BCAA 300g,Performance,4,32.00,14.00
+2024-03-15,Creatina 300g,Performance,6,28.50,12.00
+2024-03-20,Barra de Proteína,Snacks,20,2.90,1.20
+2024-03-28,Vitamina C 1g,Vitaminas,7,12.50,5.00
+2024-04-04,Whey Protein 1kg,Proteínas,8,45.90,22.00
+2024-04-11,BCAA 300g,Performance,3,32.00,14.00
+2024-04-19,Multivitamínico,Vitaminas,5,19.90,8.50
+2024-04-23,Barra de Proteína,Snacks,12,2.90,1.20
+2024-04-30,Creatina 300g,Performance,4,28.50,12.00
